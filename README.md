@@ -10,8 +10,8 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `mousetrap_linux_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/Clemapfel/mousetrap.git (revision: `2b038554858035f6263a241327c6881c7f77712d`)
-* git repository: https://github.com/Clemapfel/mousetrap_julia_binding.git (revision: `c57662fae9a7f7c86cbd38dbea91995d27b4dce6`)
+* git repository: https://github.com/Clemapfel/mousetrap.git (revision: `df09eb3b41eeb70ec67c969674ed775d2c0239cd`)
+* git repository: https://github.com/Clemapfel/mousetrap_julia_binding.git (revision: `0fdc8c77bacd842a3f75a14b78e671e0a9515978`)
 
 ## Platforms
 
