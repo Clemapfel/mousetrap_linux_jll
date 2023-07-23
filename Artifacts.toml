@@ -6,4 +6,4 @@ os = "linux"
 
     [[mousetrap_linux.download]]
     sha256 = "3b9bf53bf9faeda506bf54e48a634f5ba6b351dbb53ff56674b23410a38232a3"
-    url = "https://github.com/local/releases/download/mousetrap_linux-v0.1.1+0/mousetrap_linux.v0.1.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.1.1+0/mousetrap_linux.v0.1.1.x86_64-linux-gnu.tar.gz"
