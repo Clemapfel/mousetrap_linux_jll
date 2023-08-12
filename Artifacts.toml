@@ -1,9 +1,9 @@
 [[mousetrap_linux]]
 arch = "x86_64"
-git-tree-sha1 = "8f0324793181dd2d2d55213a2ab521fbdac13a7e"
+git-tree-sha1 = "0ceedc27e08d1d889ed925ceec2770d50a45564f"
 libc = "glibc"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "70ed1c567f0bdefd0941110bcc07dc7f93ddba68ac8f7895323ebc9b4d563189"
+    sha256 = "b089d0da671240374dea015e36c4de9edaf8c51873862ae3cb9185a106ffa855"
     url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.1.0+0/mousetrap_linux.v0.1.0.x86_64-linux-gnu.tar.gz"
