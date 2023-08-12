@@ -19,6 +19,8 @@ The tarballs for `mousetrap_linux_jll.jl` have been built from these sources:
 
 * `Linux aarch64 {libc=glibc}` (`aarch64-linux-gnu`)
 * `Linux aarch64 {libc=musl}` (`aarch64-linux-musl`)
+* `Linux i686 {libc=glibc}` (`i686-linux-gnu`)
+* `Linux powerpc64le {libc=glibc}` (`powerpc64le-linux-gnu`)
 * `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 * `Linux x86_64 {libc=musl}` (`x86_64-linux-musl`)
 * `FreeBSD x86_64` (`x86_64-unknown-freebsd`)
