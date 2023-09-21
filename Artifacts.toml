@@ -1,62 +1,62 @@
 [[mousetrap_linux]]
 arch = "aarch64"
-git-tree-sha1 = "a63e7a1bef5d06de096b115b446921c017c6b15e"
+git-tree-sha1 = "9d8bf2d728c2b46fc74d12959dd39e2a78c7986a"
 libc = "glibc"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "a2df1344b898e8e16913561fe09f28e2eed6dd3ec5b3c196315a354b4d022b32"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "cf3b282005bfe44f5c6c0dd296d94f971d0ab7bd9c95b9c0c9431c7a90e9c225"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.aarch64-linux-gnu.tar.gz"
 [[mousetrap_linux]]
 arch = "aarch64"
-git-tree-sha1 = "688cc681b3f45ac630341c6106f268cdb9a6454f"
+git-tree-sha1 = "497d1dfc5535c7f3494e9cadf2ffbfcbcf53921a"
 libc = "musl"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "7401028aa447e52b8e54388d94c3624e4f62bbad3909e74bc93c72f471ca4d2b"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "46ed64fb517fe67132a7ec8cdafdb86b1566f0f23787cba36856a6c506c9a50f"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.aarch64-linux-musl.tar.gz"
 [[mousetrap_linux]]
 arch = "i686"
-git-tree-sha1 = "2a808db36b36624e2c6e5a375b6612a2a5868aa6"
+git-tree-sha1 = "8dcb5985e84ec8cb6c14eb4ce560aecd471fa294"
 libc = "glibc"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "c5b825a6649ec2a51465d611052f5ed1d2e5d070599331e79a9092cb79ee1494"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "86b3aef439cb6cf0f02f443fca8678a579da50a50f7141160ad9ab95ab651135"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.i686-linux-gnu.tar.gz"
 [[mousetrap_linux]]
 arch = "powerpc64le"
-git-tree-sha1 = "fd8dd2878424a3784d5d570792d4249d82fa0f14"
+git-tree-sha1 = "505e4e4f23d3cd308319ad5de52f93143202f38a"
 libc = "glibc"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "1bf510e08947bd2ef392bfced5d25ace99803045cea47d66e4153909e0956e8f"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b5af0d72b4602bd2ee5f41266eec8ab747373b201819fc6aa533110046ef99fc"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.powerpc64le-linux-gnu.tar.gz"
 [[mousetrap_linux]]
 arch = "x86_64"
-git-tree-sha1 = "2670af70bf210b40d1e852d7b5d644c76c0e7d01"
+git-tree-sha1 = "323e198f4a5b1ab1be1fc36fa37ca1aa06f753aa"
 libc = "glibc"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "256cd43235bf0f2a34460e4ee6a779d51c474699214cd8603e4df8dfeeff7398"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "d1efba2a8d7e78495e7c34a1ce476c74321b1c88c8b6aa837f946b3dac28d213"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.x86_64-linux-gnu.tar.gz"
 [[mousetrap_linux]]
 arch = "x86_64"
-git-tree-sha1 = "9d1bb85203e1f0de23d006d5393c27f4809eedaf"
+git-tree-sha1 = "be98fe787979ae7a747d8fe7aa3964019d3345c3"
 libc = "musl"
 os = "linux"
 
     [[mousetrap_linux.download]]
-    sha256 = "96620be164729820233bcfec02195f5e8afe6f770212b58cf9b1057f01b48e7c"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "43e8a053f5b53cbe7638d911a8681664c27284c219cbb9456292861935e7d949"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.x86_64-linux-musl.tar.gz"
 [[mousetrap_linux]]
 arch = "x86_64"
-git-tree-sha1 = "2a3d64c6528735639e3e10e420cb643794cb8098"
+git-tree-sha1 = "6662189ae2ea9ec78052cf67bd4f5b1ae99e97a8"
 os = "freebsd"
 
     [[mousetrap_linux.download]]
-    sha256 = "3c5f7e5aaa3cd61a2bd6de9bba001382206b381b4cf1165e307c83480a6c4ee8"
-    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.0+0/mousetrap_linux.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "44b379e1c25404610e721b3be1bbb41c3d21e8783286d0ad8d5f2c9068874fc6"
+    url = "https://github.com/Clemapfel/mousetrap_linux_jll/releases/download/mousetrap_linux-v0.2.1+0/mousetrap_linux.v0.2.1.x86_64-unknown-freebsd.tar.gz"

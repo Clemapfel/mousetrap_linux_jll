@@ -1,6 +1,6 @@
 name = "mousetrap_linux_jll"
 uuid = "b6bb2801-a71f-530d-97b4-a6ed24b69d40"
-version = "0.2.0+0"
+version = "0.2.1+0"
 
 [deps]
 OpenGLMathematics_jll = "cc7be9be-d298-5888-8f50-b85d5f9d6d73"
